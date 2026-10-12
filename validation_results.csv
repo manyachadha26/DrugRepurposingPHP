@@ -1,0 +1,5 @@
+structure,target,ligand,exhaustiveness,seed,top_pose_rmsd_A,best_pose_rmsd_A,best_pose_rank,top_score_kcal_mol,verdict,use_in_study
+1XOQ,PDE4D,roflumilast,32,42,0.770,0.770,1,-9.488,PASS,Primary screening target
+1XMU,PDE4B,roflumilast,32,42,0.942,0.942,1,-9.597,PASS,Selectivity counter-screen
+7CBQ,PDE4D,apremilast,32,42,3.415,0.694,3,-9.173,Sampling OK / scoring fails,Pose comparison only
+7CBQ,PDE4D,apremilast,64,42,3.420,0.694,3,-9.164,Unchanged at higher exhaustiveness,Pose comparison only
