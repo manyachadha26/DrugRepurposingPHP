@@ -1,0 +1,13 @@
+receptor = 1XOQ.pdbqt
+
+center_x = 14.117
+center_y = 28.703
+center_z = 53.487
+
+size_x = 22
+size_y = 26
+size_z = 28
+
+exhaustiveness = 32
+num_modes = 9
+seed = 42
