@@ -1,0 +1,103 @@
+Checking 4 structure(s): 1MKD.pdb, 1XMU.pdb, 1XOQ.pdb, 7CBQ.pdb
+
+====================================================================
+### 1MKD   (1MKD.pdb)
+====================================================================
+Chains: A, B, C, D, E, F, G, H, I, J, K, L  (12 copies of the protein)
+   -> keep ONE chain before docking:  remove not chain A
+   residues per chain: A=328, B=328, C=328, D=328, E=328, F=328, G=328, H=328, I=328, J=328, K=328, L=328
+Metal ions: MG x12, ZN x12
+Co-crystallised ligand: ZAR  (chain A, residue 3001, 19 atoms)
+   other non-solvent groups present: ZAR
+GRID BOX CENTRE (ligand centroid):  center_x = 44.753   center_y = 6.189   center_z = 122.034
+
+Pocket residues within 5 A of the ligand (15 residues, chain A):
+   TYR256, HIS257, MET370, LEU416, ASN418, PRO419, TYR426, TRP429, THR430, ILE433, PHE437, MET454, SER465, GLN466, PHE469
+
+>>> INVARIANT GLUTAMINE IN THIS STRUCTURE: Gln466  (closest glutamine, 3.05 A from the ligand)
+    Use THIS number in your pose filter for THIS structure.
+
+Residues missing from the model: none listed.
+
+====================================================================
+### 1XMU   (1XMU.pdb)
+====================================================================
+Chains: A, B  (2 copies of the protein)
+   -> keep ONE chain before docking:  remove not chain A
+   residues per chain: A=329, B=321
+Metal ions: MG x2, ZN x2
+Co-crystallised ligand: ROF  (chain A, residue 101, 26 atoms)
+   other non-solvent groups present: CME, ROF
+GRID BOX CENTRE (ligand centroid):  center_x = 2.335   center_y = 0.725   center_z = 41.711
+
+Pocket residues within 5 A of the ligand (19 residues, chain A):
+   TYR233, HIS234, GLU304, THR345, MET347, ASP392, LEU393, ASN395, PRO396, TYR403, TRP406, THR407, ILE410, MET411, PHE414, MET431, SER442, GLN443, PHE446
+
+>>> INVARIANT GLUTAMINE IN THIS STRUCTURE: Gln443  (closest glutamine, 2.98 A from the ligand)
+    Use THIS number in your pose filter for THIS structure.
+
+Residues missing from the model (REMARK 465): 142 total, 67 in chain A
+   None of them are near the pocket - fine to proceed.
+
+====================================================================
+### 1XOQ   (1XOQ.pdb)
+====================================================================
+Chains: A, B  (2 copies of the protein)
+   -> keep ONE chain before docking:  remove not chain A
+   residues per chain: A=326, B=322
+Metal ions: MG x2, ZN x2
+Crystallisation additives to delete: EDO x24
+Co-crystallised ligand: ROF  (chain A, residue 502, 26 atoms)
+   other non-solvent groups present: ROF
+GRID BOX CENTRE (ligand centroid):  center_x = 14.117   center_y = 28.703   center_z = 53.487
+
+Pocket residues within 5 A of the ligand (19 residues, chain A):
+   TYR159, HIS160, GLU230, THR271, MET273, ASP318, LEU319, ASN321, PRO322, TYR329, TRP332, THR333, ILE336, MET337, PHE340, MET357, SER368, GLN369, PHE372
+
+>>> INVARIANT GLUTAMINE IN THIS STRUCTURE: Gln369  (closest glutamine, 3.08 A from the ligand)
+    Use THIS number in your pose filter for THIS structure.
+
+Residues missing from the model (REMARK 465): 50 total, 23 in chain A
+   None of them are near the pocket - fine to proceed.
+
+Alternate conformations on 10 residues - keep conformation A only.
+
+====================================================================
+### 7CBQ   (7CBQ.pdb)
+====================================================================
+Chains: A, B  (2 copies of the protein)
+   -> keep ONE chain before docking:  remove not chain A
+   residues per chain: A=326, B=325
+Metal ions: MG x3, ZN x2
+Crystallisation additives to delete: EDO x11
+Co-crystallised ligand: A9L  (chain A, residue 511, 32 atoms)
+   other non-solvent groups present: A9L
+GRID BOX CENTRE (ligand centroid):  center_x = 84.199   center_y = 157.634   center_z = 27.011
+
+Pocket residues within 5 A of the ligand (22 residues, chain A):
+   TYR159, HIS160, SER208, THR271, MET273, ASP318, LEU319, ASN321, TYR329, TRP332, THR333, ILE336, PHE340, GLN343, SER355, PRO356, MET357, CYS358, SER368, GLN369, PHE372, ILE376
+
+>>> INVARIANT GLUTAMINE IN THIS STRUCTURE: Gln369  (closest glutamine, 3.04 A from the ligand)
+    Use THIS number in your pose filter for THIS structure.
+
+Residues missing from the model (REMARK 465): 47 total, 23 in chain A
+   None of them are near the pocket - fine to proceed.
+
+Alternate conformations on 2 residues - keep conformation A only.
+
+====================================================================
+### THE NUMBERING WARNING - read this before writing any filter
+====================================================================
+   1MKD: invariant glutamine = Gln466
+   1XMU: invariant glutamine = Gln443
+   1XOQ: invariant glutamine = Gln369
+   7CBQ: invariant glutamine = Gln369
+
+   These numbers are DIFFERENT. The same glutamine, doing the same
+   job, is numbered differently in each structure, because the
+   crystallographers used different constructs.
+
+   A pose filter that hardcodes one number will silently pass or
+   fail everything in the other structures. Key your filter on the
+   per-structure number above, never on a single global one.
+
