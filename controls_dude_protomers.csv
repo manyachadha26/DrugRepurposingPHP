@@ -1,0 +1,8 @@
+name,smiles,protomer_id,net_charge,mw,logp,rot_bonds,hba,hbd
+rolipram,COc1ccc(cc1OC2CCCC2)[C@H]3CC(=O)NC3,P10000002,0,275.348,2.665,4,4,1
+roflumilast,c1cc(c(cc1C(=O)Nc2c(cncc2Cl)Cl)OCC3CC3)OC(F)F,P10000004,0,403.212,4.261,7,5,1
+apremilast,CCOc1cc(ccc1OC)[C@@H](CS(=O)(=O)C)N2C(=O)c3cccc(c3C2=O)NC(=O)C,P10000003,0,460.508,1.387,8,9,1
+cilomilast_anion,COc1ccc(cc1OC2CCCC2)C3(CCC(CC3)C(=O)[O-])C#N,P10000008,-1,342.415,3.369,5,5,0
+zardaverine_anion,COc1cc(ccc1OC(F)F)c2ccc(nn2)[O-],P10000006,-1,267.211,2.404,4,5,0
+zardaverine,COc1cc(ccc1OC(F)F)c2ccc(=O)[nH]n2,P10000005,0,268.219,1.947,4,5,1
+theophylline,Cn1c2c(c(=O)n(c1=O)C)[nH]cn2,P10000009,0,180.167,-0.0050,0,6,1

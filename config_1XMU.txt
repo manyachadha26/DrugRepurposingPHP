@@ -1,0 +1,13 @@
+receptor = 1XMU.pdbqt
+
+center_x = 2.335
+center_y = 0.725
+center_z = 41.711
+
+size_x = 28
+size_y = 22
+size_z = 28
+
+exhaustiveness = 32
+num_modes = 9
+seed = 42

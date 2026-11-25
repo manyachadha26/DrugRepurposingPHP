@@ -1,0 +1,23 @@
+name: phppde4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit
+  - openbabel
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pymol-open-source
+  - pdbfixer
+  - openmm
+  - pip
+  - pip:
+      - meeko
+      - gemmi
+      - prody
+# AutoDock Vina 1.2.7 installed separately from
+# https://github.com/ccsb-scripps/AutoDock-Vina/releases

@@ -1,0 +1,14 @@
+Gene name,Group,proximal tubule cells,loop of henle epithelial cells,distal convoluted tubule cells,renal connecting tubule cells,renal collecting duct principal cells,renal collecting duct intercalated cells,podocytes
+PDE4D,PDE4,4114.6,1181.6,3390.3,10730.8,4333.3,4569.2,1149.1
+PDE8A,Competitor,657.0,188.3,491.0,402.8,275.4,367.4,259.9
+PDE7A,Competitor,646.6,91.4,197.1,60.3,39.7,115.4,47.0
+PDE1A,Competitor,148.1,1112.0,101.7,409.1,940.2,1001.6,87.2
+PDE3B,Competitor,115.4,11.2,49.1,288.0,59.0,40.9,17.8
+PDE3A,Competitor,111.8,50.8,7.1,14.0,6.0,7.8,254.7
+PDE1C,Competitor,16.5,41.9,23.2,300.5,21.9,1635.7,12.1
+PDE4B,PDE4,8.8,6.7,3.1,8.2,10.6,3.2,65.8
+PDE4A,PDE4,3.2,15.5,5.2,20.5,13.1,20.3,22.5
+PDE2A,Competitor,1.0,1.1,0.7,0.8,0.8,7.1,2.3
+PDE8B,Competitor,0.6,2.7,1.4,8.6,5.8,3.4,3.4
+PDE1B,Competitor,0.3,1.5,0.4,0.6,5.1,0.3,0.0
+PDE4C,PDE4,0.0,0.0,0.0,0.0,0.0,0.0,0.0

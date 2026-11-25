@@ -1,0 +1,13 @@
+Steps 4 and 5 only. Steps 2 and 3 files are not included here.
+
+MISSING FROM THIS BUNDLE - you must produce these two yourself:
+  structures/1XMU.pdbqt   run: mk_prepare_receptor.py -i 1XMU_clean.pdb -o 1XMU -p
+  structures/7CBQ_fixed.pdb and the 7CBQ.pdbqt built from it
+      (the 7CBQ.pdbqt here was built WITHOUT the PDBFixer repair; yours is the
+       repaired one with 3204 atoms - upload yours, not this one)
+
+ALSO UPLOAD from your own machine:
+  results/redock_1XOQ.pdbqt
+  results/redock_1XMU.pdbqt
+  results/redock_7CBQ.pdbqt
+  results/redock_7CBQ_e64.pdbqt
