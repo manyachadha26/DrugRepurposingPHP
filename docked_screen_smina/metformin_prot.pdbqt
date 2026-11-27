@@ -1,0 +1,225 @@
+MODEL 1
+REMARK minimizedAffinity -5.49577761
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      14.341  28.432  53.967  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      14.026  28.837  52.587  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      13.713  30.259  52.362  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      13.969  27.915  51.564  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      14.117  26.597  51.829  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      13.806  28.311  50.283  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      13.449  27.592  49.151  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      13.795  28.199  48.008  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      12.822  26.484  49.178  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      14.206  26.239  52.769  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      14.234  25.933  51.069  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      13.987  29.285  50.093  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      14.741  28.556  47.942  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      13.585  27.606  47.206  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      12.487  26.227  50.105  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -5.27852964
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      15.546  26.556  53.548  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      15.627  26.612  52.079  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      16.832  26.039  51.453  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      14.647  27.226  51.329  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      13.628  27.872  51.941  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.665  27.162  49.980  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      13.979  27.904  49.029  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      13.912  27.300  47.835  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      13.490  29.060  49.242  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      13.581  27.983  52.944  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      12.826  28.187  51.403  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      15.255  26.451  49.577  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      13.632  26.327  47.824  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      13.337  27.840  47.189  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      13.756  29.457  50.142  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity -5.22309399
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      15.704  26.741  53.685  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      15.311  27.199  55.028  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      14.839  28.590  55.149  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      15.436  26.381  56.130  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      16.009  25.162  56.009  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.956  26.762  57.333  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      15.197  26.261  58.605  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      14.248  26.590  59.492  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      16.231  25.588  58.923  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      16.418  24.838  55.144  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      15.962  24.496  56.775  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      14.295  27.524  57.327  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      13.285  26.450  59.211  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      14.422  26.140  60.390  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      16.937  25.554  58.189  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity -5.16543579
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      16.260  25.913  56.424  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      15.212  26.548  57.240  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      14.211  27.362  56.529  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      15.205  26.433  58.614  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      16.219  25.802  59.248  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.173  26.909  59.343  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      14.064  27.159  60.704  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      12.795  27.216  61.131  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      15.058  27.354  61.475  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      17.034  25.458  58.760  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      16.143  25.576  60.235  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      13.324  27.106  58.836  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      12.174  26.473  60.836  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      12.760  27.324  62.144  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      15.946  27.440  60.983  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity -5.08920336
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      13.668  29.016  50.173  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      13.645  28.817  51.631  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      13.471  30.017  52.468  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      13.837  27.570  52.188  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      14.141  26.514  51.399  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      13.688  27.375  53.515  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      14.085  26.321  54.326  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      13.411  26.260  55.482  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      15.020  25.507  54.032  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      14.300  26.606  50.407  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      14.128  25.572  51.779  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      13.192  28.095  54.018  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      12.403  26.335  55.434  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      13.678  25.431  56.013  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      15.545  25.772  53.201  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK minimizedAffinity -5.04134655
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      11.538  28.891  61.725  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      12.879  28.429  61.330  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      14.025  28.991  62.068  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      13.057  27.555  60.279  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      11.998  27.172  59.528  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.274  27.039  60.006  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      14.749  26.387  58.876  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      15.842  25.650  59.112  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      14.231  26.497  57.718  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      11.073  27.552  59.663  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      12.094  26.414  58.859  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      14.963  27.113  60.738  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      15.822  25.036  59.917  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      16.113  25.128  58.278  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      13.507  27.212  57.661  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK minimizedAffinity -5.01871729
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      11.899  28.602  61.667  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      12.255  27.998  60.372  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      11.179  27.870  59.374  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      13.526  27.522  60.129  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      14.451  27.521  61.115  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      13.878  27.087  58.900  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      14.964  26.329  58.484  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      15.223  26.449  57.175  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      15.633  25.562  59.249  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      14.235  27.799  62.062  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      15.424  27.321  60.903  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      13.276  27.365  58.141  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      15.254  27.387  56.794  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      16.070  25.939  56.926  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      15.224  25.451  60.176  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK minimizedAffinity -5.0125556
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      13.865  27.345  53.185  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      13.927  27.312  54.656  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      12.971  28.164  55.385  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      14.876  26.562  55.317  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      15.831  25.907  54.618  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.846  26.436  56.661  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      15.812  25.988  57.551  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      15.306  25.599  58.729  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      17.061  25.975  57.302  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      15.925  25.993  53.616  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      16.431  25.232  55.082  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      13.979  26.687  57.111  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      14.503  24.983  58.707  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      16.035  25.206  59.323  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      17.308  26.446  56.433  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK minimizedAffinity -5.00241423
+REMARK minimizedRMSD -1
+REMARK SMILES [H]/N=C(/N)NC(=[NH2+])N(C)C
+REMARK SMILES IDX 9 1 8 2 10 3 6 4 7 5 5 6 3 7 4 8 2 9 1 15
+REMARK H PARENT 7 10 7 11 5 12 4 13 4 14
+ROOT
+ATOM      1  C   UNL     1      13.546  29.827  51.220  1.00  0.00    +0.244 C 
+ATOM      2  N   UNL     1      13.711  28.408  51.578  1.00  0.00    -0.270 N 
+ATOM      3  C   UNL     1      13.593  27.424  50.488  1.00  0.00    +0.244 C 
+ATOM      4  C   UNL     1      13.907  28.016  52.885  1.00  0.00    +0.350 C 
+ATOM      5  N   UNL     1      13.863  28.930  53.882  1.00  0.00    -0.290 N 
+ATOM      6  N   UNL     1      14.183  26.730  53.188  1.00  0.00    -0.215 N 
+ATOM      7  C   UNL     1      14.144  26.056  54.401  1.00  0.00    +0.254 C 
+ATOM      8  N   UNL     1      14.876  24.934  54.407  1.00  0.00    -0.357 N 
+ATOM      9  N   UNL     1      13.458  26.434  55.406  1.00  0.00    -0.255 NA
+ATOM     10  H   UNL     1      13.626  29.898  53.720  1.00  0.00    +0.256 HD
+ATOM     11  H   UNL     1      14.161  28.678  54.820  1.00  0.00    +0.256 HD
+ATOM     12  H   UNL     1      14.488  26.149  52.423  1.00  0.00    +0.270 HD
+ATOM     13  H   UNL     1      15.819  24.995  54.042  1.00  0.00    +0.161 HD
+ATOM     14  H   UNL     1      14.883  24.512  55.335  1.00  0.00    +0.161 HD
+ATOM     15  H   UNL     1      12.831  27.211  55.203  1.00  0.00    +0.193 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
