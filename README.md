@@ -116,6 +116,6 @@ RCSB Protein Data Bank; ChEMBL; DrugBank; PubChem. All public.
 
 ## Authors
 
-Manya Chadha (7024000097), Nimrat Kaur (7024000059), Harnoor Kaur
-(7024000063), Khushi Kohli (7024000082). Supervised by Dr. Atul Kumar
+Manya Chadha (7024000097), Khushi Kohli (7024000082), Nimrat Kaur
+(7024000059), Harnoor Kaur (7024000063). Supervised by Dr. Atul Kumar
 Upadhayay, Department of Biotechnology, TIET.
